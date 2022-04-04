@@ -8,5 +8,5 @@ Do takich operacji należą:
 
 Zaprojektuj zestaw klas, które będą modelowały zachowannie rachunku bankowego podczas ww. operacji
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab05-Objects-Modelling/main/UML/diagram.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab05-Objects-Modelling/main/UML/diagram1.puml)
 

@@ -49,7 +49,7 @@ enum BankOperationType{
 
 BankAccount --> "source" BankAccountOperation
 BankAccount --> "target" BankAccountOperation
-BankAccount o-- BankAccountManager
-BankAccountOperation o-- BankAccountManager
+BankAccountManager -o BankAccount
+BankAccountManager -o BankAccountOperation
 
 @enduml
