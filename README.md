@@ -1,10 +1,11 @@
-# Zadanie
+# Zadanie (4 pkt)
 
 System bankowy pozwala na zlecenie operacji bankowych na rachunku klienta.
 Do takich operacji należą:
-* wpłata środków na konto
-* wypłata środków z konta
-* wykonanie przelewuz konta na konto
+* wpłata środków na konto - możliwe zawsze (1 pkt)
+* wypłata środków z konta - możliwe gdy na koncie jest wystarczająca ilość środków (1 pkt)
+* wykonanie przelewu z konta na konto - możliwe gdy na koncie jest wystarczająca ilość środków (2 pkt)
+    + przelewy wykonywane są 2 razy dziennie
 
 Zaprojektuj zestaw klas, które będą modelowały zachowannie rachunku bankowego podczas ww. operacji
 
